@@ -1,3 +1,58 @@
 body {
     background-color: #050A16;
 }
+
+#nav-bar {
+    background-color: #050A16;
+    font-size: x-large;
+    color: #FFFFFF;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.first-page {
+    padding-top: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
+
+    .greetings {
+        color: #FFDB3A;
+        font-weight: 700;
+        font-size: x-large;
+    }
+
+    .firstname,
+    .lastname {
+        color: #FFFFFF;
+        font-weight: 900;
+        font-size: 4em;
+        font-family: Arial, Helvetica, sans-serif;
+        line-height: 100%;
+    }
+
+    .skill01,
+    .skill02 {
+        color: #FFFFFF;
+        font-weight: 800;
+        font-size: 1.5em;
+        font-family: Arial, Helvetica, sans-serif;
+        line-height: 80%;
+    }
+
+    .btn-space {
+        padding-top: 5%;
+    }
+
+    .hire-me-btn {
+        padding-left: 1.5em;
+        padding-right: 1.5em;
+        border-radius: 15px !important;
+    }
+
+
+
+
+
+
+
+}
